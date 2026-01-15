@@ -1,6 +1,6 @@
 # Seesaw Simulation Logic (Pure JS)
 
-This project is a technical assignment for the Insider One Software Developer role. It simulates a physics-based seesaw using Vanilla JavaScript, focusing on torque mechanics and DOM manipulation without any external libraries.
+This project is a technical assignment for the Software Developer role. It simulates a physics-based seesaw using Vanilla JavaScript, focusing on torque mechanics and DOM manipulation without any external libraries.
 
 ## 🚀 Live Demo
 https://emircankilicaslan.github.io/emircan-kilicaslan-seesaw/
