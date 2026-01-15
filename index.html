@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seesaw Simulation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="simulation-container">
+        <div class="stats">
+            <p>Left Weight: <span id="left-total">0</span> kg</p>
+            <p>Right Weight: <span id="right-total">0</span> kg</p>
+        </div>
+        
+        <div class="seesaw-wrapper">
+            <div class="plank" id="plank">
+                <div class="ruler"></div> 
+                </div>
+            <div class="pivot"></div>
+        </div>
+
+        <div class="controls">
+            <button onclick="togglePause()" class="btn-pause" id="pause-btn">Pause</button>
+            <button onclick="resetSimulation()" class="btn-reset">Reset Simulation</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
