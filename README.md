@@ -4,6 +4,8 @@ This project is a technical assignment for the Software Developer role. It simul
 
 ## 🚀 Live Demo
 https://emircankilicaslan.github.io/emircan-kilicaslan-seesaw/
+<img width="1726" height="793" alt="image" src="https://github.com/user-attachments/assets/42fd33df-834f-4401-9547-42638b4f330c" />
+
 
 ## 🛠 Features
 * **Physics Engine:** Calculates torque (`Weight x Distance`) for both sides.
