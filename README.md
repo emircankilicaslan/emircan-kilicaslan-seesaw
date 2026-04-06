@@ -20,6 +20,6 @@ https://emircankilicaslan.github.io/emircan-kilicaslan-seesaw/
 * Vanilla JavaScript (ES6+)
 
 ---
-*Note: AI tools were used for syntax checking and styling suggestions, while the core simulation logic was implemented based on the project requirements.*
+
 
 *Developed by Emircan Kilicaslan*
